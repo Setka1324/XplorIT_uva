@@ -1,0 +1,9 @@
+gspread
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+yt-dlp
+pydub
+SpeechRecognition
+whisper @ git+https://github.com/openai/whisper.git
